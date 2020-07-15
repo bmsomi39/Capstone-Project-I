@@ -2,4 +2,4 @@
 
 This project consists of two financial calculators:
 -An investment calculator
--A home loan repayement calculator
+-A home loan repayment calculator
